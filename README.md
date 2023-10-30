@@ -1,6 +1,6 @@
 # SQL Data Analysis & Data Visualizaiton Projects #
 
-Compilation of SQL, Tableau, and Power BI, data analysis and visualization related projects and challenges where I practice those skills.
+Compilation of SQL, Tableau, data analysis and visualization related projects.
 
 ### Built with ###
 
